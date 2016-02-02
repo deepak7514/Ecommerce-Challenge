@@ -10,3 +10,7 @@ What happens when you don't have Internet and you need to make an online purchas
 1. Call KooKoo (040-39411020, 080-39411020, 022-39411020) 
 2. Enter Pin number: 8802
 3. Enter Various categories and finally, confirm order.
+
+# ToDo :
+1. Add crawler and store data in file
+2. Enable IVR to read from that file
